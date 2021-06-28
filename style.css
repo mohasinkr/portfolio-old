@@ -1,0 +1,10 @@
+#paragraph{
+    background:purple;
+    color : white;
+    text-align: center;
+    border : yellow solid;
+    outline: 20px solid green;
+    margin:25px 35px 40px 50px;
+    font : italic 14px Arial ;
+}
+
