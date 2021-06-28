@@ -8,3 +8,12 @@
     font : italic 14px Arial ;
 }
 
+.button{
+    color:white;
+    background-color :lightgreen;
+    font : tahoma 10px ;
+    border-radius:10px;
+    padding-left :10px;
+    padding-right :10px;
+}
+
