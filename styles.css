@@ -1,5 +1,5 @@
 body {
-  background-color: #B5EAEA;
+  background-color: #17BEBB;
 }
 
 hr {
@@ -14,4 +14,18 @@ img {
   height: 180px;
 }
 
-</style>
+h1,h4{
+  color: #2E282A;
+}
+
+a,p,ul,table{
+  color: white;
+}
+
+a:hover{
+  color: #FFC914;
+}
+
+a:visited{
+  color: #E4572E;
+}
