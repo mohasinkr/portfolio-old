@@ -30,10 +30,15 @@ a,p,ul,table{
   color: white;
 }
 
+a:link{
+  text-decoration: none;
+}
 a:hover{
   color: #FFC914;
+  text-decoration: underline;
 }
 
 a:visited{
   color: #E4572E;
+  text-decoration: none;
 }
