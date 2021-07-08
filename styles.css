@@ -1,5 +1,7 @@
 body {
   background-color: #17BEBB;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
 }
 
 hr {
@@ -18,7 +20,7 @@ h1{
   border-bottom : white dotted 10px;
 }
 h1,h4{
-  color: #2E282A;
+  color: black;
 }
 
 h4{
@@ -33,12 +35,13 @@ a,p,ul,table{
 a:link{
   text-decoration: none;
 }
-a:hover{
-  color: #FFC914;
-  text-decoration: underline;
-}
 
 a:visited{
   color: #E4572E;
   text-decoration: none;
+}
+
+a:hover{
+  color: #FFC914;
+  text-decoration: underline;
 }
