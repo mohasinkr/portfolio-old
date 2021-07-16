@@ -1,5 +1,5 @@
 body {
-  background-color: #17BEBB;
+  background-image: linear-gradient(to right, rgb(255, 51, 51,0.8),rgb(255, 51, 51,0.5));
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
 }
@@ -15,32 +15,35 @@ hr {
 img {
   height: 180px;
 }
-h1{
+
+h1 {
   padding-bottom: 10px;
-  border-bottom : white dotted 10px;
+  border-bottom: white dotted 10px;
 }
-h1,h4{
+
+h1, h4 {
   color: black;
 }
 
-h4{
+h4 {
   text-decoration: underline dashed white;
-  text-underline-offset : 3px;
+  text-underline-offset: 3px;
 }
 
-a,p,ul,table{
+a, p, ul, table {
   color: white;
 }
-a:link{
+
+a:link {
   text-decoration: none;
 }
 
-a:visited{
+a:visited {
   color: #E4572E;
   text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: #FFC914;
   text-decoration: underline;
 }
